@@ -5,7 +5,7 @@
   <div align="center">
     <h3>
  
-    @github temporarily has flagged my main account "su77ungr" - since the link to the organization. 
+    @github has flagged my main account "su77ungr" - since the link to the organization. 
     
   </h3>
 
